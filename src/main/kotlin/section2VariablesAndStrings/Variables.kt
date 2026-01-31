@@ -8,4 +8,7 @@ fun main(args: Array<String>) {
     println(tvShows)
     tvShows = "too many"
     println(tvShows)
+
+    val color = "blue"
+    println(color)
 }
