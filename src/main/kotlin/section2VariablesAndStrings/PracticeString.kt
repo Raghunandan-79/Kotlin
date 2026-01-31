@@ -13,4 +13,10 @@ fun main() {
     val apples = 3
     val oranges = 6
     println("Total fruits available are ${apples + oranges}")
+
+    // Exercise
+    val client = "Mary"
+    val products = 3
+    val price = 30
+    println("$client needs to pay a total amount of ${products * price}")
 }
