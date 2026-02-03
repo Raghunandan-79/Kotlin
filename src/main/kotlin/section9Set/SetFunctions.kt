@@ -1,7 +1,7 @@
 package org.example.section9Set
 
 fun main() {
-    val numbers = hashSetOf(1, 4, 69, 67, 124)
+    val numbers = setOf(1, 4, 69, 67, 124)
     println(numbers)
 
     println(numbers.size)
