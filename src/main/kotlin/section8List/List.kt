@@ -1,4 +1,4 @@
-package org.example
+package org.example.section8List
 
 fun main() {
     val colors = listOf("blue", "yellow", "red")
